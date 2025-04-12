@@ -51,20 +51,6 @@
 
 
 
- <style>
-  .tech-badge {
-    transition: all 0.3s ease;
-    margin-right: 6px;
-    vertical-align: middle;
-    cursor: pointer;
-  }
-  .tech-badge:hover {
-    transform: scale(1.12);
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    z-index: 10;
-  }
-</style>
-
 
 <img class="tech-badge" src="https://img.shields.io/badge/FastApi-282C34?logo=FastApi&logoColor=009485" alt="FastAPI" title="FastAPI" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092e20" alt="Django" title="Django" height="25" />
@@ -82,22 +68,12 @@
 
 ###
 
-<style>
-  .stats-badge {
-    transition: all 0.3s ease;
-    margin: 0 8px 8px 0;
-    vertical-align: middle;
-  }
-  .stats-badge:hover {
-    transform: scale(1.08);
-    opacity: 0.9;
-  }
-</style>
-
 <!-- Codewars -->
-<a href="https://www.codewars.com/users/Marke_Love">
-  <img class="stats-badge" src="https://www.codewars.com/users/Marke_Love/badges/large" alt="Codewars" />
-</a>
+<div align="center">
+  <a href="https://www.codewars.com/users/Marke_Love">
+    <img src="https://www.codewars.com/users/Marke_Love/badges/large" alt="Codewars" />
+  </a>
+</div>
 
 <!-- LeetCode -->
 <a href="https://leetcode.com/Marke_Love/">
