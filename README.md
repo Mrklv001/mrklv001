@@ -54,7 +54,7 @@
 <img class="tech-badge" src="https://img.shields.io/badge/RabbitMQ-282C34?logo=RabbitMQ&logoColor=FF6600" alt="RabbitMQ" title="RabbitMQ" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=0db7ed" alt="Docker" title="Docker" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/SQLAlchemy-282C34?logo=SQLAlchemy&logoColor=1E4B6B" alt="SQLAlchemy" title="SQLAlchemy" height="25" />
-<!-- <img class="tech-badge" src="https://img.shields.io/badge/Kafka-282C34?logo=Apache Kafka&logoColor=231F20" alt="Apache Kafka" title="Kafka" height="25" /> -->
+<img class="tech-badge" src="https://img.shields.io/badge/Kafka-282C34?logo=Apache Kafka&logoColor=231F20" alt="Apache Kafka" title="Kafka" height="25" />
 
 ###
 
