@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Я Backend-разработчик с более чем 2 годами опыта разработки на Python и FastAPI/Django. Я постоянно совершенствуюсь в использовании современных технологий и методологий разработки. 
+<p align="left">Я Backend-разработчик с более чем 2 годами опыта разработки на Golang и Python. Я постоянно совершенствуюсь в использовании современных технологий и методологий разработки. 
 <p align="left">Стремлюсь создавать инновационные и высокопроизводительные решения, которые решают реальные проблемы и приносят пользу компании и пользователям. В свободное время увлекаюсь чтением, настольными играми, программированием и шахматами.
 <br>
 <br>- 🚀 Участвовал в конкурсе IT-стартапов.
@@ -38,12 +38,14 @@
 
 ###
 
-<h3 align="left"><img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="30" height="30" style="vertical-align:down; margin:4px"/> Технологии:</h3>
+<h3 align="left">💻 Технологии:</h3>
 
 ###
-
+![Golang](https://img.shields.io/badge/-Golang-282C34?style=flat-square&logo=Golang)
+![Python](https://img.shields.io/badge/-Python-282C34?style=flat-square&logo=Python)
 <img class="tech-badge" src="https://img.shields.io/badge/FastApi-282C34?logo=FastApi&logoColor=009485" alt="FastAPI" title="FastAPI" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=0C4B33" alt="Django" title="Django" height="25" />
+<img class="tech-badge" src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=000000" alt="Linux" title="Linux" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=336791" alt="PostgreSQL" title="PostgreSQL" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=00758F" alt="MySQL" title="MySQL" height="25" />
 <img class="tech-badge" src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
