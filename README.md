@@ -79,12 +79,12 @@
 
 ### 🚀 DevOps, CI/CD, Environment
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-282C34)
 ![Nginx](https://img.shields.io/badge/Nginx-282C34?logo=nginx)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282C34?logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux)
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes)
 
 <h2 align="center">🧠 Решение задач</h2>
 <br>
