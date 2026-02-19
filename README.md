@@ -39,7 +39,6 @@
 
 ###
 
-
 <h2 align="center">🧠 Технологический стек:</h2>
 
 ### 👨‍💻 Языки программирования
@@ -85,10 +84,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-282C34?logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux)
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes)
 
 <h2 align="center">🧠 Решение задач</h2>
 <br>
+
 <!-- Codewars & LeetCode-->
 <div align="center">
   <a href="https://www.codewars.com/users/Marke_Love">
