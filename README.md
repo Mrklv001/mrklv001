@@ -57,6 +57,8 @@
 
 <h2 align="center">🧠 Технологический стек:</h2>
 
+<div align="center">
+
 ### 👨‍💻 Языки программирования
 ![Python](https://img.shields.io/badge/Python-282C34?logo=python)
 ![Go](https://img.shields.io/badge/Go-282C34?logo=go)
@@ -102,6 +104,8 @@
 ![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux)
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
 
+###
+
 <h2 align="center">🧠 Решение задач</h2>
 <br>
 
@@ -113,5 +117,7 @@
 </div>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FMArke_love&query=%24.totalSolved&label=LeetCode%20Solved&color=FFA116&logo=leetcode&style=for-the-badge" alt="LeetCode stats" />
+
+</div>
 
 ###
