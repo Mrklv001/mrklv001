@@ -20,6 +20,7 @@
   <a href="#" target="_blank">
   <img src="https://img.shields.io/static/v1?message=B2&logo=googletranslate&label=English&color=4A90D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="english b2"/>
   </a>
+</div>
 
 
 ###
