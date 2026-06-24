@@ -11,25 +11,40 @@
  
 ###
 
-<h3 align="center">Backend developer | Python • Node.js • Golang</h3>
+<h3 align="center">Backend Developer | 4+ лет коммерческого опыта</h3>
 
 <div align="center">
   
   <a href="https://t.me/Mrklv001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=B2&logo=googletranslate&label=English&color=4A90D9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="english b2"/>
   </a>
+
 
 ###
 
 <h3 align="left">👨‍💻 Обо мне</h3>
 
-<p align="left">Я Backend-разработчик с более чем 3 годами опыта разработки на Python/Node.js/Golang. Постоянно совершенствуюсь в использовании современных технологий и методологий разработки. 
-<p align="left">Стремлюсь создавать инновационные и высокопроизводительные решения, которые решают реальные проблемы и приносят пользу компании и пользователям. В свободное время увлекаюсь чтением, боулдерингом и шахматами.
-<br>
-<br>- 🚀 Участвовал в конкурсе IT-стартапов.
-<br>- 📚 Постоянно изучаю новые технологии.
-<br>- 🔭 Закончил магистратуру в ИТМО.
-<br>- 🎓 Являюсь аспирантом ЛЭТИ.</p>
+<p align="left">Backend-разработчик с фокусом на <b>FastAPI</b>, асинхронных интеграциях и высоконагруженных системах.  
+Работал в <b>финтехе</b> (Квантрон) и <b>медицинском домене</b> (СЭМП, МИС Самсон).
+
+ <div style="text-align: left;">
+<h3>📈 Что умею — в цифрах:</h3>
+<ul>
+  <li> ⚡ Снизил задержки API с <b>900 мс → 400–500 мс</b> через переход на async + RabbitMQ</li>
+  <li> 📄 Автоматизировал обработку <b>200+ документов/мес</b> (было ~0% автоматизации → стало 80%+)</li>
+  <li> 🏥 Впервые подключил учреждение к федеральной системе СЭМП — <b>100+ врачей</b> получили доступ к данным в реальном времени</li>
+  <li>🔧 Сократил время диагностики инцидентов с <b>нескольких часов → 30–60 минут</b> через централизованное логирование</li>
+</ul>
+
+<p align="left">Увлекаюсь низкоуровневыми системами: реализую Redis, Git, HTTP-сервер и DNS с нуля — это помогает понимать инструменты, которыми пользуюсь каждый день.
+ 
+<br>🎓 Магистр ИТМО (Инноватика, 2024), аспирант ЛЭТИ
+<br>📍 Санкт-Петербург, готов к удалённой работе и командировкам
+<br>🌐 Английский B2
+<br>🚀 Участвовал в конкурсе IT-стартапов.
+</div>
 
 ###
 
